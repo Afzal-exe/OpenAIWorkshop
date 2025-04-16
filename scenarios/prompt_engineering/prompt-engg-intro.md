@@ -291,6 +291,7 @@ Please make a table summarizing the fruits from Goocrux
 Given the tips above about being detailed and improving format, it's easy to fall into the trap of wanting to be too clever about prompts and potentially creating imprecise descriptions. It's often better to be specific and direct. The model doesn't mind you being explicit in your instructions; you can't offend it! The analogy here is very similar to effective communication: the more direct, the more effectively the message gets across.
 
 For example, you might be interested in learning the concept of prompt engineering. You might try something like:
+
 *Prompt:*
 ```
 Provide a short explanation of what prompt engineering is in NLP without using technical language
@@ -302,6 +303,7 @@ natural language. It involves creating questions or statements that can be used 
 a response in natural language.
 ```
 It's not clear from the prompt above how many sentences to use, what style we need things output in, or what we intend to take away from the output. You might get passable responses with the above prompt; the better prompt would be very specific, concise, and to the point. Something like:
+
 *Prompt:*
 ```
 Provide a list with five bullet points, one sentence each, describing the benefits of prompt 
